@@ -1,0 +1,24 @@
+{
+  "name": "home-work-1-day-of-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadusufsamadov/BrandName-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/muhammadusufsamadov/BrandName-project/issues"
+  },
+  "homepage": "https://github.com/muhammadusufsamadov/BrandName-project#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.1.17"
+  }
+}
